@@ -1,0 +1,2 @@
+-e export SANDBOX=/home/sandbox/poc/jkozak/power_one/DUMMY/SOURCE.json
+-e export SANDBOX=/home/sandbox/poc/jkozak/power_one/DUMMY/SOURCE.json
